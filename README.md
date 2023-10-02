@@ -5,9 +5,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Senior Software Engineer at [Bloomberg](https://github.com/bloomberg) (London).
 - 🌱 I’m currently learning:
-  - Data Engineering (Spark, Trino, Hive, Iceberg, Pandas)
+  - Data Engineering (Spark, Trino, Hive, Iceberg, Pandas, ClickHouse)
   - DevOps (Docker, K8s, Jenkins, Github Actions, Ansible, Terraform)
-  - Cloud (AWS)
+  - Cloud (AWS, GCP)
 - 🤔 I’m looking for help with getting stared with Open Source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyansh-agrawal/)
 - 💬 Ask me about
