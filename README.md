@@ -18,7 +18,18 @@
  
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
-<h1>Hacktoberfest</h1>
+<br>
+
+<h3>GitHub stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh121096&show_icons=true&locale=en&layout=compact" alt="priyansh121096" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh121096&show_icons=true&locale=en" alt="priyansh121096" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh121096&" alt="priyansh121096" /></p>
+<br>
+[![Priyansh121096's GitHub | Stats](https://stats.quine.sh/Priyansh121096/github?theme=light)](https://quine.sh)
+<br>
+
+<h3>Hacktoberfest</h3>
 
 [![An image of @priyansh121096's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyansh121096)](https://holopin.io/@priyansh121096)
 
