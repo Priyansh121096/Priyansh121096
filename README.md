@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Priyansh121096)
 
-### Hi there 👋
+### Hi there, I'm Priyansh Agrawal 👋
 - 🔭 I’m currently working as a Senior Software Engineer at [Bloomberg](https://github.com/bloomberg) (London).
 - 🌱 I’m currently learning:
   - Data Engineering (Spark, Trino, Hive, Iceberg, Pandas, ClickHouse)
