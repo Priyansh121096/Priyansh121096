@@ -26,7 +26,9 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh121096&" alt="priyansh121096" /></p>
 <br>
-[![Priyansh121096's GitHub | Stats](https://stats.quine.sh/Priyansh121096/github?theme=light)](https://quine.sh)
+
+[![Priyansh121096's GitHub Stats](https://stats.quine.sh/Priyansh121096/github?theme=light)](https://quine.sh)
+
 <br>
 
 <h3>Hacktoberfest</h3>
