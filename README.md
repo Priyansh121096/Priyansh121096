@@ -19,12 +19,12 @@
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
 #### Repos I have contributed to:
-- https://github.com/ClickHouse/ClickHouse
-- https://github.com/apache/iceberg
-- https://github.com/pola-rs/polars
-- https://github.com/facebook/relay
-- https://github.com/bloomberg/trino
-- https://github.com/illacloud/illa-builder, https://github.com/illacloud/builder-backend
+- https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
+- https://github.com/apache/iceberg/commits?author=Priyansh121096
+- https://github.com/pola-rs/polars/commits?author=Priyansh121096
+- https://github.com/facebook/relay/commits?author=Priyansh121096
+- https://github.com/bloomberg/trino/commits?author=Priyansh121096
+- https://github.com/illacloud/illa-builder/commits?author=Priyansh121096, https://github.com/illacloud/builder-backend/commits?author=Priyansh121096
 
 #### Some notable PRs of mine:
 - https://github.com/ClickHouse/ClickHouse/pull/55211
