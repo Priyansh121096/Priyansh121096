@@ -18,7 +18,19 @@
  
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
-<br>
+#### Repos I have contributed to:
+- https://github.com/ClickHouse/ClickHouse
+- https://github.com/apache/iceberg
+- https://github.com/pola-rs/polars
+- https://github.com/facebook/relay
+- https://github.com/bloomberg/trino
+- https://github.com/illacloud/illa-builder, https://github.com/illacloud/builder-backend
+
+#### Some notable PRs of mine:
+- https://github.com/ClickHouse/ClickHouse/pull/55211
+- https://github.com/bloomberg/trino/pull/8
+- https://github.com/apache/iceberg/pull/8748
+- https://github.com/illacloud/illacloud.com/pull/268
 
 <h3>GitHub stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansh121096&show_icons=true&locale=en&layout=compact" alt="priyansh121096" /></p>
@@ -28,8 +40,6 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 <br>
 
 [![Priyansh121096's GitHub Stats](https://stats.quine.sh/Priyansh121096/github?theme=light)](https://quine.sh/user/Priyansh121096)
-
-<br>
 
 <h3>Hacktoberfest</h3>
 
