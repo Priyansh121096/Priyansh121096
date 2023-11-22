@@ -41,7 +41,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh121096&theme=radical" alt="priyansh121096" />
 </p>
 
-[![Priyansh121096's GitHub | Stats](https://stats.quine.sh/Priyansh121096/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyansh121096) [![Priyansh121096's Stack Overflow | Stats](https://stats.quine.sh/Priyansh121096/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyansh121096)
+[![Priyansh121096's GitHub | Stats](https://stats.quine.sh/Priyansh121096/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyansh121096) [![Priyansh121096's Stack Overflow | Stats](https://stats.quine.sh/Priyansh121096/stack-overflow?theme=dark)](https://stackoverflow.com/users/5019181/priyansh-agrawal)
 
 ### Hacktoberfest
 
