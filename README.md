@@ -19,7 +19,9 @@
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
 ### Some of my own repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=windows-spotlight)](https://github.com/agrawpri/windows-spotlight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=windows-spotlight&description_lines_count=3)](https://github.com/agrawpri/windows-spotlight)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=quote-generator&description_lines_count=3)](https://github.com/agrawpri/quote-generator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=2048-docker&description_lines_count=3)](https://github.com/agrawpri/2048-docker)
 
 #### Repos I have contributed to:
 - https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
@@ -52,7 +54,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 
 ### Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9a20dc35e6583a17e9a35b8e3fd3bbe1&theme=radical)](https://gist.github.com/Priyansh121096/9a20dc35e6583a17e9a35b8e3fd3bbe1/)
+[![](https://github-readme-stats.vercel.app/api/gist?id=9a20dc35e6583a17e9a35b8e3fd3bbe1&theme=radical)](https://gist.github.com/Priyansh121096/9a20dc35e6583a17e9a35b8e3fd3bbe1/)
 
 <!--
 **Priyansh121096/Priyansh121096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
