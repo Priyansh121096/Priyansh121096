@@ -34,13 +34,22 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 - https://github.com/illacloud/illacloud.com/pull/268
 
 ### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh121096&show_icons=true&locale=en" alt="priyansh121096" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh121096&" alt="priyansh121096" /></p>
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansh121096&show_icons=true&locale=en&show=prs_merged,prs_merged_percentage&hide=stars&theme=radical" alt="priyansh121096" />
+  &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh121096&theme=radical" alt="priyansh121096" />
+</p>
 
 [![Priyansh121096's GitHub | Stats](https://stats.quine.sh/Priyansh121096/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyansh121096) [![Priyansh121096's Stack Overflow | Stats](https://stats.quine.sh/Priyansh121096/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyansh121096)
 
 ### Hacktoberfest
 
 [![An image of @priyansh121096's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyansh121096)](https://holopin.io/@priyansh121096)
+
+### Gists
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=9a20dc35e6583a17e9a35b8e3fd3bbe1&theme=radical)](https://gist.github.com/Priyansh121096/9a20dc35e6583a17e9a35b8e3fd3bbe1/)
 
 <!--
 **Priyansh121096/Priyansh121096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
