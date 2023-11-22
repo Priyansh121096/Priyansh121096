@@ -24,6 +24,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 - https://github.com/pola-rs/polars/commits?author=Priyansh121096
 - https://github.com/facebook/relay/commits?author=Priyansh121096
 - https://github.com/bloomberg/trino/commits?author=Priyansh121096
+- https://github.com/Dataherald/dataherald/commits?author=Priyansh121096
 - https://github.com/illacloud/illa-builder/commits?author=Priyansh121096, https://github.com/illacloud/builder-backend/commits?author=Priyansh121096
 
 #### Some notable PRs of mine:
