@@ -18,12 +18,12 @@
  
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
-### Some of my own repos
+### Some of my work:
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=windows-spotlight&description_lines_count=3)](https://github.com/agrawpri/windows-spotlight)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=quote-generator&description_lines_count=3)](https://github.com/agrawpri/quote-generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=2048-docker&description_lines_count=3)](https://github.com/agrawpri/2048-docker)
 
-#### Repos I have contributed to:
+### Repos I have contributed to:
 - https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
 - https://github.com/apache/iceberg/commits?author=Priyansh121096
 - https://github.com/pola-rs/polars/commits?author=Priyansh121096
@@ -32,7 +32,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 - https://github.com/Dataherald/dataherald/commits?author=Priyansh121096, https://github.com/Dataherald/streamlit-app/commits?author=Priyansh121096
 - https://github.com/illacloud/illa-builder/commits?author=Priyansh121096, https://github.com/illacloud/builder-backend/commits?author=Priyansh121096
 
-#### Some notable PRs of mine:
+### Some notable PRs of mine:
 - https://github.com/ClickHouse/ClickHouse/pull/55211
 - https://github.com/bloomberg/trino/pull/8
 - https://github.com/apache/iceberg/pull/8748
