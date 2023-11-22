@@ -18,6 +18,9 @@
  
 A few of my projects also reside at https://github.com/agrawpri. So, do check that out as well!
 
+### Some of my own repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=windows-spotlight)](https://github.com/agrawpri/windows-spotlight)
+
 #### Repos I have contributed to:
 - https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
 - https://github.com/apache/iceberg/commits?author=Priyansh121096
