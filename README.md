@@ -36,8 +36,6 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 ### Some notable PRs of mine:
 - https://github.com/ClickHouse/ClickHouse/pull/55211
 - https://github.com/bloomberg/trino/pull/8
-- https://github.com/apache/iceberg/pull/8748
-- https://github.com/illacloud/illacloud.com/pull/268
 
 ### Stats
 <p>
