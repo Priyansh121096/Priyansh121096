@@ -22,6 +22,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=windows-spotlight&description_lines_count=3)](https://github.com/agrawpri/windows-spotlight)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=quote-generator&description_lines_count=3)](https://github.com/agrawpri/quote-generator)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=2048-docker&description_lines_count=3)](https://github.com/agrawpri/2048-docker)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=agrawpri&repo=cc-load-balancer&description_lines_count=3)](https://github.com/agrawpri/cc-load-balancer)
 
 ### Repos I have contributed to:
 - https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
