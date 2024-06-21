@@ -28,6 +28,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 - https://github.com/ClickHouse/ClickHouse/commits?author=Priyansh121096
 - https://github.com/apache/iceberg/commits?author=Priyansh121096
 - https://github.com/pola-rs/polars/commits?author=Priyansh121096
+- https://github.com/narwhals-dev/narwhals/commits?author=Priyansh121096
 - https://github.com/facebook/relay/commits?author=Priyansh121096
 - https://github.com/bloomberg/trino/commits?author=Priyansh121096
 - https://github.com/Dataherald/dataherald/commits?author=Priyansh121096, https://github.com/Dataherald/streamlit-app/commits?author=Priyansh121096
@@ -36,6 +37,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 
 ### Some notable PRs of mine:
 - https://github.com/ClickHouse/ClickHouse/pull/55211
+- https://github.com/narwhals-dev/narwhals/pull/317
 - https://github.com/bloomberg/trino/pull/8
 
 ### Stats
