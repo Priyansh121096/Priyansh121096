@@ -37,7 +37,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 
 ### Some notable PRs of mine:
 - https://github.com/ClickHouse/ClickHouse/pull/55211
-- https://github.com/narwhals-dev/narwhals/pull/317
+- https://github.com/narwhals-dev/narwhals/pull/317, https://github.com/narwhals-dev/narwhals/pull/351
 - https://github.com/bloomberg/trino/pull/8
 
 ### Stats
