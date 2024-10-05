@@ -57,6 +57,7 @@ A few of my projects also reside at https://github.com/agrawpri. So, do check th
 ### Gists
 
 [![](https://github-readme-stats.vercel.app/api/gist?id=9a20dc35e6583a17e9a35b8e3fd3bbe1&theme=radical)](https://gist.github.com/Priyansh121096/9a20dc35e6583a17e9a35b8e3fd3bbe1/)
+[![](https://github-readme-stats.vercel.app/api/gist?id=a43fe97f18f848dde5b05d9eb8998e46&theme=radical)](https://gist.github.com/Priyansh121096/a43fe97f18f848dde5b05d9eb8998e46/)
 
 <!--
 **Priyansh121096/Priyansh121096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
